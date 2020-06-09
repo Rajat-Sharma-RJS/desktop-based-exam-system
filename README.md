@@ -4,4 +4,5 @@ The credentials of teacher are :-
 User Name : ADMIN  
 Password : ADMIN  
 The instructor would set the question paper after login using the above credentials.
-The students need to register first before attempting the test.
+The students need to register first before attempting the test.  
+After creating project in NetBeans or Eclipse one should run Project.java file.
